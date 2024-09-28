@@ -1,2 +1,2 @@
-# homework
+# Homework
 ## Homework for Programming Courses
